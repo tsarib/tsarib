@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Tania
+🚀 **Junior Software Developer | AI Enthusiast**
+
+💡 Passionate about **Artificial Intelligence, Web Development & AR/VR**  
+🌱 Currently learning **Unity & Augmented Reality**  
+🎶 Lindy Hop & Collegiate Shag dancer in my free time!  
+
+## 📫 Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsarib/)   
 
 <!--
 **tsarib/tsarib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
