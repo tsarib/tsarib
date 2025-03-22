@@ -5,6 +5,8 @@
 🌱 Currently learning **Unity & Augmented Reality**  
 🎶 Lindy Hop & Collegiate Shag dancer in my free time!  
 
+☀️ **Fun Fact:** I feel like a plant 'cause I need the sun to feel good!  
+
 ## 📫 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsarib/)   
